@@ -1,4 +1,4 @@
-# Project-Euler-Poblems
+# Project-Euler-Problems
 This repo contains solutions for projecteuler problems. Specially created for newcomers to contribute as part of Hacktoberfest Challenge.
 
 # hacktoberfest-projecteuler
