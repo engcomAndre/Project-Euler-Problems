@@ -1,6 +1,6 @@
 # uma solucao 'ingenua' que no pior caso faria 1000xnum_total_de_palindromes operacoes
 
-# testa de existe m e n, com 99 < m,n < 1000 e mn = num
+# testa se existem m e n, com 99 < m,n < 1000 e mn = num
 def is_solution(num):
     for n in range(999, 99, -1):
         m = int(num/n)
